@@ -1,0 +1,62 @@
+python
+java
+c++
+c
+sql
+mysql
+postgresql
+nosql
+mongodb
+excel
+power bi
+tableau
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+keras
+machine learning
+deep learning
+data mining
+data analysis
+statistical analysis
+nlp
+natural language processing
+computer vision
+opencv
+matplotlib
+seaborn
+plotly
+html
+css
+javascript
+typescript
+react
+angular
+vue
+node
+express
+django
+flask
+fastapi
+rest api
+graphql
+docker
+kubernetes
+git
+linux
+bash
+shell scripting
+aws
+azure
+gcp
+spark
+hadoop
+airflow
+etl
+snowflake
+bigquery
+redshift
+powerpoint
+communication

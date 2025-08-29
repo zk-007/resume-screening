@@ -1,0 +1,6 @@
+job_id,title,Job Description
+J201,Junior Data Analyst,"Analyze data using SQL, Excel, Python. Build dashboards in Tableau or Power BI. Communicate insights."
+J202,ML Engineer,Design ML pipelines with scikit-learn or PyTorch. Deploy models with Flask/FastAPI. Use Docker and cloud.
+J203,Frontend Developer,"Build responsive UIs using HTML, CSS, JavaScript, React. Collaborate with designers and backend teams."
+J204,Backend Developer,Design REST APIs in Python/Django or Node/Express. Work with databases and authentication.
+J205,Data Scientist,"Explore data, build predictive models, feature engineering, model evaluation and presentation."
